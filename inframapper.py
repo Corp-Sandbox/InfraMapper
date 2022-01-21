@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 '''
 InfraMapper
-v0.1 - POC release to test boto3 capabilities and use of diagrams module.
+v0.1.0 - POC release to test boto3 capabilities and use of diagrams module.
 '''
 from collections import defaultdict
 from diagrams import Cluster, Diagram
